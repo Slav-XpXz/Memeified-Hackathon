@@ -9,6 +9,6 @@ int main(int argc, char *argv[]){
     erase();
     system("color A");
     printf("Your system has been infected with J3bad1ah_l0ng_nuts2.0 and will die in 30 seconds \n");
-    printf("get fucked by slav and gurilla!");
+    printf("get FLIPPED by slav and gurilla!");
     sleep(30);
 }
